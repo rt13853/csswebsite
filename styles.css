@@ -1,0 +1,124 @@
+body{
+  color: #40514e;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  font-weight: bold;
+}
+h1{
+  font-size : 5.825rem;
+  font-family: 'Sacramento', cursive;
+  margin: 50px auto 0 auto;
+  color: #66BFBF;
+}
+h2{
+  padding-bottom: 10px;
+  font-size: 2rem;
+  font-family: 'Montserrat', sans-serif;
+  color: #66BFBF;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+.skill-row{
+  width: 50%;
+  position:relative;
+  margin:80px auto 80px auto;
+  text-align: left;
+}
+p{
+  line-height: 2;
+}
+.code-image{
+  width:25%;
+  float:left;
+  margin-right:30px;
+}
+.food-image{
+  width:25%;
+  float: right;
+  margin-left: 30px;
+}
+.profile{
+  width:30%;
+  margin: auto;
+  color: #40514e
+}
+
+.row{
+  border-color: #c8c2bc;
+  border-style: none;
+  border-top-style: dotted;
+  border-width : 5px ;
+  width: 4%;
+  margin: 90px auto 90px auto;
+}
+.contact-me{
+  width:30%;
+  margin: auto;
+}
+
+.top-container{
+  background-color: #eaf6f6;
+  padding-top: 100px;
+  position: relative;
+}
+.middle-container{
+  margin: 100px 0;
+}
+.pro{
+  text-decoration: underline;
+}
+.top-cloud{
+  position: absolute;
+  top: 40px;
+  right:300px;
+}
+.bottom-cloud{
+  position: absolute;
+  bottom:300px;
+  left: 250px;
+}
+.bottom-container{
+  background-color: #66BFBF;
+  padding: 30px;
+}
+.footer-link{
+  color: #11999E;
+  font-size: 15px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  padding: 20px;
+}
+#copy{
+  color: #EAF6F6;
+  font-size: 10px;
+  position: relative;
+  top:20px;
+}
+
+.btn {
+   margin-top: 20px;
+   -webkit-border-radius: 10px;
+   -moz-border-radius: 10px;
+   border-radius: 10px;
+   height: 14px;
+   line-height: 14px;
+   color: #EAF6F6;
+   font-family: Helvetica;
+   width: 120px;
+   font-size: 18px;
+   font-weight: 500;
+   padding: 13px;
+   background-color: #11999E;
+   -webkit-box-shadow: 1px 1px 6px 0 #000000;
+   -moz-box-shadow: 1px 1px 6px 0 #000000;
+   box-shadow: 1px 1px 6px 0 #000000;
+   text-shadow: 0 0 1px #000000;
+   border: solid #959595 0;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
